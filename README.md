@@ -6,21 +6,21 @@
 
 👋 I'm **Chris**, a student from INTI International College taking BS Computer Science! 🏫
 
-I have a huge interest in cybersecurity 🔐 as well as coding 👾! Currently working on the Astro-Nacsa Coding Challenge 2024. #ANCC2024
+I have a huge interest in cybersecurity 🔐 as well as coding 👾! Currently working on university projects.
 
 #### Talking about personal stuff:
     ✽ 🚀 Check out my university projects in my [public repositories](https://github.com/twilight39?tab=repositories)! \
-    ✽ 🌱 I'm currently learning Python, C++, Flutter/Dart & Supabase. \
+    ✽ 🌱 I'm currently learning Python, Java, HTML/CSS & JavaScript. \
     ✽ 💬 Ask me anything, I am happy to connect! \
     ✽ 📫 How to reach me: kein.yie@gmail.com \
     ✽ ⛩️ Hobbies: I love reading 📙, coffee ☕️ and music 🎶 in my free time! \
     ✽ ⚡ Fun fact: 39 sounds like "Thank You" in Japanese; Thank you for reading my profile!
 
 #### Skills:
-Software Development | Project Management
+Software Development | Web Development | Full-Stack Developer | Project Management
 
 #### Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,flutter,supabase,git,sqlite,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,flutter,html,css,js,supabase,sqlite,mysql,git,github)](https://skillicons.dev)
 
 #### My GitHub Stats:
 <div class="row" style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start;">
