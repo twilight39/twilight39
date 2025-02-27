@@ -6,7 +6,7 @@
 
 👋 I'm **Chris**, a student from INTI International College taking BS Computer Science! 🏫
 
-I have a huge interest in cybersecurity 🔐 as well as coding 👾! Currently working on university projects.
+I have a huge interest in cybersecurity 🔐 as well as coding 👾! Currently working on university projects and an internship project.
 
 #### Talking about personal stuff:
     ✽ 🚀 Check out my university projects in my [public repositories](https://github.com/twilight39?tab=repositories)! \
