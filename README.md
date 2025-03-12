@@ -6,12 +6,13 @@
 
 👋 I'm **Chris**, a student from INTI International College taking BS Computer Science! 🏫
 
-I have a huge interest in cybersecurity 🔐 as well as coding 👾! Currently working on university projects and an internship project.
+I have a huge interest in cybersecurity 🔐 as well as coding 👾! Currently working on an internship project and side projects.
 
 #### Talking about personal stuff:
     ✽ 🚀 Check out my university projects in my [public repositories](https://github.com/twilight39?tab=repositories)! \
     ✽ 🌱 I'm currently learning Python, Java, HTML/CSS & JavaScript. \
     ✽ 💬 Ask me anything, I am happy to connect! \
+    ✽ 📙 Interested in DSA? Join me on learning [LeetCode](https://leetcode.com/u/twilightfox/)!
     ✽ 📫 How to reach me: kein.yie@gmail.com \
     ✽ ⛩️ Hobbies: I love reading 📙, coffee ☕️ and music 🎶 in my free time! \
     ✽ ⚡ Fun fact: 39 sounds like "Thank You" in Japanese; Thank you for reading my profile!
