@@ -1,7 +1,7 @@
 # Hi there, I'm Choo Kein Yie 👋
 
 [![Email](https://img.shields.io/badge/Email-kein.yie@gmail.com-red?style=flat-square&logo=gmail)](mailto:kein.yie@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kein-yie-choo-392192279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/choo-kein-yie/)
 
 I build full-stack web apps and ML pipelines.
 
@@ -33,7 +33,7 @@ Final-semester CS undergrad at INTI/Coventry University. Between coursework and 
 ## 📫 Get in Touch
 
 - 📧 kein.yie@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/kein-yie-choo-392192279/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/choo-kein-yie/)
 - 🧩 [LeetCode](https://leetcode.com/u/twilightfox/)
 <!---
 twilight39/twilight39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
