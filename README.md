@@ -1,38 +1,40 @@
-### It's lovely to meet you! 
+# Hi there, I'm Choo Kein Yie 👋
 
-![5738-blonde-neko-huh](https://github.com/twilight39/twilight39/assets/169473752/f058e433-d125-4825-b413-ba45da7ee881) 
+[![Email](https://img.shields.io/badge/Email-kein.yie@gmail.com-red?style=flat-square&logo=gmail)](mailto:kein.yie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kein-yie-choo-392192279/)
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=twilight39.twilight.39)
+I build full-stack web apps and ML pipelines.
 
-👋 I'm **Chris**, a student from INTI International College taking BS Computer Science! 🏫
+Final-semester CS undergrad at INTI/Coventry University. Between coursework and job hunting, I'm keeping my existing repos maintained — not shipping anything new right now.
 
-I have a huge interest in cybersecurity 🔐 as well as coding 👾! Currently working on an internship project and side projects.
+---
 
-#### Talking about personal stuff:
-    ✽ 🚀 Check out my university projects in my [public repositories](https://github.com/twilight39?tab=repositories)! \
-    ✽ 🌱 I'm currently learning Python, Java, HTML/CSS & JavaScript. \
-    ✽ 📙 Interested in DSA? Join me on learning [LeetCode](https://leetcode.com/u/twilightfox/)! \
-    ✽ 💬 Ask me anything, I am happy to connect! \
-    ✽ 📫 How to reach me: kein.yie@gmail.com \
-    ✽ ⛩️ Hobbies: I love reading 📙, coffee ☕️ and music 🎶 in my free time! \
-    ✽ ⚡ Fun fact: 39 sounds like "Thank You" in Japanese; Thank you for reading my profile!
+## 🚀 Featured
 
-#### Skills:
-Software Development | Web Development | Full-Stack Developer | Project Management
+**[IPA Navigator](https://github.com/twilight39/IPA-Navigator)** — Web-based pronunciation training with phoneme-level feedback. Sub-100ms latency, AI-curated focus sessions. Accepted at CITIC 2026 (AI/ML Track).
 
-#### Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,flutter,html,css,js,supabase,sqlite,mysql,git,github)](https://skillicons.dev)
+**[ML Portfolio](https://github.com/twilight39/salary-superhost-ml)** — End-to-end regression and classification on messy real-world data. Stacking ensembles, temporal leakage prevention, SHAP explainability. Production-grade `uv` + `pytest` workflows.
 
-#### My GitHub Stats:
-<div class="row" style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=twilight39&count_private=true&show_icons=true&hide=stars" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilight39&layout=compact" alt="Top Langs" />
-</div>
+**[WHO Mortality Analysis](https://github.com/twilight39/who-mortality-risk-prediction)** — Epidemiological data science pipeline: 92.6% classification accuracy, R² = 0.88 forecasting, K-Means disease profiling. Fully decoupled notebook narrative from production `src` package.
 
-### Take care, and thank you for visiting!
-![7781-blonde-neko-thumbsup](https://github.com/twilight39/twilight39/assets/169473752/372e8e9d-48a4-4fe1-bc76-fee3995b3f4b)
+---
 
+## 🛠️ Tech Stack
 
+**Languages:** Python · TypeScript · JavaScript · C# · Rust · SQL  
+**Frontend:** React · Tailwind CSS · daisyUI · Chart.js · AG Grid  
+**Backend:** ASP.NET Core · FastAPI · Axum  
+**ML / Data:** PyTorch · ONNX · scikit-learn · XGBoost · SHAP · Pandas · Polars  
+**Databases:** SQL Server · MySQL · SQLite · Convex  
+**Tooling:** Git · Docker · CI/CD · Linux · Power Automate
+
+---
+
+## 📫 Get in Touch
+
+- 📧 kein.yie@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kein-yie-choo-392192279/)
+- 🧩 [LeetCode](https://leetcode.com/u/twilightfox/)
 <!---
 twilight39/twilight39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
