@@ -3,9 +3,9 @@
 [![Email](https://img.shields.io/badge/Email-kein.yie@gmail.com-red?style=flat-square&logo=gmail)](mailto:kein.yie@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/choo-kein-yie/)
 
-I build full-stack web apps and ML pipelines.
+Software Engineer with production enterprise experience and published AI research. Built systems serving 70+ users at Keysight Technologies. Available for full-time roles from August 2026.
 
-Final-semester CS undergrad at INTI/Coventry University. Between coursework and job hunting, I'm keeping my existing repos maintained — not shipping anything new right now.
+Currently completing final-semester coursework and BOMGuard — a personal project involving LLM and RAG integration. Graduating August 2026.
 
 ---
 
@@ -35,6 +35,7 @@ Final-semester CS undergrad at INTI/Coventry University. Between coursework and 
 - 📧 kein.yie@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/choo-kein-yie/)
 - 🧩 [LeetCode](https://leetcode.com/u/twilightfox/)
+- 🌱 Available for full-time software engineering roles from August 2026. Based in Penang, open to KL and Singapore.
 <!---
 twilight39/twilight39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
